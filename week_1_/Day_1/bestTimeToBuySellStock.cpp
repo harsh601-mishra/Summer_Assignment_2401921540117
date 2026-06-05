@@ -1,4 +1,5 @@
-//  best time to buy and sell stock
+// day 1: best time to buy and sell stock
+
 #include<iostream>
 #include<vector>
 using  namespace std;
